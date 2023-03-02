@@ -1,5 +1,5 @@
 # Squaring a list
-# Author: Dawson Gall
+# Author: Group 14
 
 # List
 nums = [2, 5, 6, 8, 11]
